@@ -5,6 +5,7 @@ body{
 }
 
 h1:hover{
+    color: black;
     .parastyle{
 
 color: blue;}
